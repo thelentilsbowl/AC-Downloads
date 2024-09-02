@@ -58,7 +58,7 @@ downloadlink: "https://www.overtake.gg/downloads/grange-motor-circuit.58450/"
 {name: "Meihan Sportsland Course",
 type: "Map",
 downloadlink: "https://assettocorsa.club/mods/tracks/meihan-sportsland-c-course.html"
-}
+},
 {name: "Daytona - Sandown Park",
 type: "Map",
 downloadlink: "https://www.overtake.gg/downloads/daytona-sandown-park-kart-track.47722/"   
