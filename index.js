@@ -62,8 +62,15 @@ downloadlink: "https://assettocorsa.club/mods/tracks/meihan-sportsland-c-course.
 {name: "Daytona - Sandown Park",
 type: "Map",
 downloadlink: "https://www.overtake.gg/downloads/daytona-sandown-park-kart-track.47722/"   
+},
+{name: "AC-Legends",
+type: "Pack",
+downloadlink: "https://www.mediafire.com/file/s8a9dkd61jnlvto/20201108+AC+Legends+3.0+Mod+pack.7z/file"
+},
+{name: "Lamborghini Revuelto",
+type: "Car",
+downloadlink: "https://www.patreon.com/posts/public-release-106876957"
 }
-
 /*{name:,
 type:,
 downloadlink:
